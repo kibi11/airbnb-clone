@@ -7,7 +7,7 @@ const Footer = () => {
         <p>Nice try</p>
         <p>Nice try</p>
         <p>Nice try</p>
-        <p>Nice try</p>
+        <p>Nice tr</p>
       </div>
       <div className="space-y-4 text-sm text-gray-600">
         <h5 className="font-bold">About</h5>
